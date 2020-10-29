@@ -834,3 +834,7 @@ footer {
 #profile-about p{
   font-size: 14px;
 }
+
+
+@import url('//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css');
+@import url('//rawgithub.com/hyperrest/api-icons/v0.1.0/hyperrest-api-icons.css');
